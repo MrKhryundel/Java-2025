@@ -1,3 +1,6 @@
+// C3 = 0 = StringBuilder (Тип)
+// C17 = 6 = Відсортувати слова заданого тексту за зростанням кількості голосних літер. (Дія з текстом)
+
 import java.util.*;
 
 public class StringTask_lab2 {
@@ -60,3 +63,4 @@ public class StringTask_lab2 {
         }
     }
 }
+
