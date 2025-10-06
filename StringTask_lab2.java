@@ -47,7 +47,7 @@ public class StringTask_lab2 {
                 }
             }
 
-            // 5. Сортування за кількістю голосних
+            // Сортування за кількістю голосних
             words.sort(Comparator.comparingInt(StringTask_lab2::countVowels));
 
             // Вивід відсортованих слів
@@ -63,4 +63,5 @@ public class StringTask_lab2 {
         }
     }
 }
+
 
